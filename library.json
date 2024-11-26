@@ -1,0 +1,44 @@
+[
+    {
+        "id": "2",
+        "title": "1",
+        "author": "1",
+        "year": "1",
+        "status": "в наличии"
+    },
+    {
+        "id": "3",
+        "title": "12",
+        "author": "2",
+        "year": "2",
+        "status": "в наличии"
+    },
+    {
+        "id": "4",
+        "title": "1",
+        "author": "1",
+        "year": "1",
+        "status": "в наличии"
+    },
+    {
+        "id": "5",
+        "title": "1",
+        "author": "1",
+        "year": "1",
+        "status": "в наличии"
+    },
+    {
+        "id": "6",
+        "title": "1",
+        "author": "1",
+        "year": "1",
+        "status": "в наличии"
+    },
+    {
+        "id": "7",
+        "title": "Python",
+        "author": "Python4",
+        "year": "2024",
+        "status": "выдана"
+    }
+]
